@@ -47,4 +47,4 @@ of the door during operation.
 - GitHub
 
 ## Author
-- Your Name
+- Viraj Vaghasia
